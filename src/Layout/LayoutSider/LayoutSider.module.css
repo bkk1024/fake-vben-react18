@@ -1,0 +1,21 @@
+.SiderLogo {
+	display: flex;
+	align-items: center;
+	width: 50px;
+	height: 50px;
+	padding: 7px;
+	transition: all 0.2s ease;
+	cursor: pointer;
+}
+
+.SiderLogo img {
+	height: 100%;
+}
+
+.SiderLogo h1 {
+	color: #fff;
+	transition: all 0.5s;
+	font-weight: 700;
+	line-height: normal;
+	white-space: nowrap;
+}
